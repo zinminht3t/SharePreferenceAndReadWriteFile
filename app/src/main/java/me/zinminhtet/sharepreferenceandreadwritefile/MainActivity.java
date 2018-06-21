@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(this, MyPreferenceActivity.class));
                 return (true);
             case R.id.option3:
-//                startActivity(new Intent(this, ReadWriteFile.class));
+                startActivity(new Intent(this, ReadWriteFile.class));
                 return (true);
             case R.id.option4:
 //                startActivity(new Intent(this, ReadWriteStorage.class));

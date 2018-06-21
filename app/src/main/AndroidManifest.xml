@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".MyPreferencesActivity" />
-        <activity android:name=".MyPreferenceActivity"></activity>
+        <activity android:name=".MyPreferenceActivity" />
+        <activity android:name=".ReadWriteFile"></activity>
     </application>
 
 </manifest>
